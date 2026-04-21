@@ -23,5 +23,14 @@ Q-Learning and Hidden Markov Model implementation
 - Q-Learning achieved ~77% success rate
 - HMM learned meaningful state transitions
 
+### 🔹 Q-Learning Performance
+![Rewards](images/rewards.png)
+
+### 🔹 Q-Table Heatmap
+![Heatmap](images/heatmap.png)
+
+### 🔹 HMM Hidden States
+![HMM](images/hmm_states.png)
+
 ## 🔷 Author
 Vidushi Goel
